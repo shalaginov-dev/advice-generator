@@ -88,12 +88,19 @@ a {
   }
 }
 .main-block {
-  color: red;
+  background-color: rgba(240, 248, 255, 0.3);
+  height: 300px;
+  width: 300px;
+  border-radius: 30px;
 }
 
 body {
   font-size: 28px;
   background-color: hsl(218, 23%, 16%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 /*# sourceMappingURL=app.css.map */
