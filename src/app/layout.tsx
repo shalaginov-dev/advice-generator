@@ -1,4 +1,4 @@
-import './styles/app.scss'
+import '@/styles/app.scss'
 import type {Metadata} from 'next'
 import {Manrope} from 'next/font/google'
 
